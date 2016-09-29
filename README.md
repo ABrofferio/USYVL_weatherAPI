@@ -6,3 +6,6 @@ This program uses a Java wrapper, forecastio-lib-java, created by David Ervideir
 
 ###Installations
 This program requires that Java be installed.
+
+###To-Do
+Pull JSON data from the API for past weather reports at the USYVL game sites to see which sites have historically had the best tournament conditions.
